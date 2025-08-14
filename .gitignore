@@ -1,0 +1,4 @@
+scraped_data/*.json
+scraped_data/*.json
+!scraped_data/batch_1.json
+!scraped_data/batch_2.json
